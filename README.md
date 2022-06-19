@@ -64,3 +64,4 @@ COMP 5312 | [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 Extension | [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) | 32 Week | 6 Hours/Week
+Extension | [Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics) | 32 Week | 4 Hours/Week
