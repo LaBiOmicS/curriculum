@@ -59,14 +59,6 @@ BIO 4313 | [Evolution](https://www.coursera.org/learn/genetics-evolution) | 11 W
 COMP 5311 | [Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | 10 Weeks | 6 Hours/Week
 COMP 5312 | [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) | 8 Weeks | 6 Hours/Week
 
-
-### Extra Year
-
-Code | Course | Duration | Effort
-:-- | :--: | :--: | :--:
-COMP 5311 | [Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | 10 Weeks | 6 Hours/Week
-COMP 5312 | [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) | 8 Weeks | 6 Hours/Week
-
 ### Specialization
 
 Code | Course | Duration | Effort
